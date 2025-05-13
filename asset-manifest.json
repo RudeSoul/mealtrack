@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mealtrack/static/css/main.ed3d0fbb.css",
+    "main.js": "/mealtrack/static/js/main.501bbc4f.js",
+    "index.html": "/mealtrack/index.html",
+    "main.ed3d0fbb.css.map": "/mealtrack/static/css/main.ed3d0fbb.css.map",
+    "main.501bbc4f.js.map": "/mealtrack/static/js/main.501bbc4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed3d0fbb.css",
+    "static/js/main.501bbc4f.js"
+  ]
+}
